@@ -48,7 +48,7 @@ Desarrollador enfocado en construir sistemas **robustos, mantenibles y seguros**
   
 | Tipo | Enlace |
 |------|--------|
-| 💼 **LinkedIn** | https://www.linkedin.com/in/kindred98/ |
+| 💼 **LinkedIn** | https://www.linkedin.com/in/echedev |
 | 📧 **Email** | angel98dev26@gmail.com |
 
 </div>
