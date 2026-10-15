@@ -23,7 +23,7 @@ Desarrollador Full Stack enfocado en **backend con Python**: APIs robustas con F
 - ☕ **Análisis y Programación en Java** — Aspasia
 - 🛡️ **Seguridad & Clean Code** — Validación, control de acceso, pruebas y arquitectura mantenible
 
-> 🔭 Proyectos, experiencia completa y contacto → **[kindred-porfolio.netlify.app](https://kindred-porfolio.netlify.app/)**
+> 🔭 Proyectos, experiencia completa y contacto → **[(https://echedev.vercel.app/)](https://echedev.vercel.app/)**
 
 ## 📊 Estadísticas de GitHub
 
@@ -46,7 +46,6 @@ Desarrollador Full Stack enfocado en **backend con Python**: APIs robustas con F
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20proyectos-928dab?style=for-the-badge&logo=netlify&logoColor=white)](https://kindred-porfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-echedev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/echedev)
 [![Email](https://img.shields.io/badge/Email-angel98dev26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel98dev26@gmail.com)
 
