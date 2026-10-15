@@ -23,7 +23,7 @@ Desarrollador Full Stack enfocado en **backend con Python**: APIs robustas con F
 - ☕ **Análisis y Programación en Java** — Aspasia
 - 🛡️ **Seguridad & Clean Code** — Validación, control de acceso, pruebas y arquitectura mantenible
 
-> 🔭 Proyectos, experiencia completa y contacto → **[(https://echedev.vercel.app/)](https://echedev.vercel.app/)**
+> 🔭 Proyectos, experiencia completa y contacto → **[https://echedev.vercel.app/](https://echedev.vercel.app/)**
 
 ## 📊 Estadísticas de GitHub
 
