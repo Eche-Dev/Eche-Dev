@@ -1,54 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=200&section=header&text=Ángel%20Echenique&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20|%20Secure%20Coding%20|%20Testing&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=220&section=header&text=EcheDev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%C3%81ngel%20David%20Echenique%20%C2%B7%20Full%20Stack%20Developer&descAlignY=62&descSize=18" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
-<img src="https://img.shields.io/badge/Testing-Pytest-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security-Backend-red?style=for-the-badge" />
-
-  <!-- Bases de Datos -->
+  <!-- Stack principal -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
-
-  <!-- DevOps -->
-  <img src="https://img.shields.io/badge/CI/CD-Básico-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-pytest-0A9E4F?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Secure%20Coding-red?style=for-the-badge&logo=shield&logoColor=white" />
 
 </div>
 
+<br />
 
-Desarrollador enfocado en construir sistemas **robustos, mantenibles y seguros**, aplicando principios sólidos de ingeniería de software y prácticas modernas de desarrollo.
+## 👋 Hola, soy **EcheDev**
 
-- 🎓 **T.S.U en Administración de Empresas** — Entiendo el negocio detrás del software  
-- 🤖 **IA aplicada al desarrollo** — Uso modelos como herramientas de ingeniería, automatización y refactorización  
-- 🛡️ **Enfoque en seguridad** — Validación, sanitización, control de acceso y análisis de vulnerabilidades  
+Desarrollador Full Stack enfocado en **backend con Python**: APIs robustas con FastAPI, código **testeado y seguro**, e IA aplicada como herramienta de ingeniería.
 
+- 🎓 **TSU en Administración de Empresas** — Visión de negocio aplicada al código
+- 🤖 **IA Aplicada a la Programación** — Fundación Dicampus
+- ☕ **Análisis y Programación en Java** — Aspasia
+- 🛡️ **Seguridad & Clean Code** — Validación, control de acceso, pruebas y arquitectura mantenible
+
+> 🔭 Proyectos, experiencia completa y contacto → **[kindred-porfolio.netlify.app](https://kindred-porfolio.netlify.app/)**
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<!-- TODO: Reemplazar 'github-readme-stats-eight-theta' con tu URL de Vercel (ver SETUP_STATS.md) -->
-<a href="#">
+<a href="https://github.com/Eche-Dev">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eche-Dev&show_icons=true&theme=tokyonight&hide_border=true" align="left" />
 </a>
-<a href="#">
+<a href="https://github.com/Eche-Dev?tab=repositories">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eche-Dev&layout=compact&theme=tokyonight&hide_border=true" align="right" />
 </a>
 
 <br clear="both" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Eche-Dev&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Eche-Dev&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 📫 Contacto
 
 <div align="center">
-  
-| Tipo | Enlace |
-|------|--------|
-| 💼 **LinkedIn** | https://www.linkedin.com/in/echedev |
-| 📧 **Email** | angel98dev26@gmail.com |
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver%20proyectos-928dab?style=for-the-badge&logo=netlify&logoColor=white)](https://kindred-porfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-echedev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/echedev)
+[![Email](https://img.shields.io/badge/Email-angel98dev26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel98dev26@gmail.com)
 
 </div>
